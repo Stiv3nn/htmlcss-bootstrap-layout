@@ -1,0 +1,17 @@
+[class^='container'] {
+    min-height: 80vh;
+    /* parametri debug */
+    /* border: 1px solid black;
+    background-color: aquamarine; */
+}
+
+[class^='row'] {
+    /* parametri di debug */
+    /* background-color: red; */
+}
+
+[class^='col']{
+    height: 150px;
+    /* Parametri di debug */
+    /* border: 1px solid black; */
+}
